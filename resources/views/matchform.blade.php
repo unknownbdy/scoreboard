@@ -171,7 +171,8 @@ $('#time_duration').change(function(){
 });
     localStorage.removeItem('saved_countdown');
     localStorage.removeItem('count_team_second');
-    localStorage.removeItem('count_team_first');
+    localStorage.removeItem('count_team_first');  
+    //changes has been done
     </script>
 
   </body>
