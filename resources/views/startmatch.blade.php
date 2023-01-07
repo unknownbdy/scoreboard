@@ -48,7 +48,7 @@
         $count_timer = $scoreDetail->time_duration;
         $team_first_name = $scoreDetail->team_first;
         $team_second_name = $scoreDetail->team_second;
-      }
+      } 
     @endphp
 
         <div class='container'>
